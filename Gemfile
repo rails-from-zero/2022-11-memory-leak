@@ -49,3 +49,6 @@ end
 gem "faker", "~> 2.23"
 gem "honeycomb-beeline", "~> 2.11"
 gem "pry", "~> 0.13.1"
+
+gem "get_process_mem", "~> 0.2.7"
+gem "heap-profiler"
